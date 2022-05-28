@@ -12,17 +12,17 @@
 			tooltipButtonText: "Проблемы с сайтом?"
 		});
 	</script>
-  <script src="/cdn-cgi/apps/head/B4ygZ9RNViW2cCBSfzZ3xth7kV4.js"></script>
+  <script src="http://miraculousxd.ru/cdn-cgi/apps/head/B4ygZ9RNViW2cCBSfzZ3xth7kV4.js"></script>
   <link href='https://fonts.googleapis.com/css?family=Montserrat:400,600,700%7CSource+Sans+Pro:400,600,700' rel='stylesheet'>
-  <link rel="stylesheet" href="/new/de/css/bootstrap.min.css">
-  <link rel="stylesheet" href="/new/de/css/font-icons.css">
-  <link rel="stylesheet" href="/new/de/css/style.css">
-  <link rel="shortcut icon" href="/favicon.ico">
-  <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+  <link rel="stylesheet" href="http://miraculousxd.ru/new/de/css/bootstrap.min.css">
+  <link rel="stylesheet" href="http://miraculousxd.ru/new/de/css/font-icons.css">
+  <link rel="stylesheet" href="http://miraculousxd.ru/new/de/css/style.css">
+  <link rel="shortcut icon" href="http://miraculousxd.ru/favicon.ico">
+  <link rel="apple-touch-icon" sizes="114x114" href="http://miraculousxd.ru/apple-touch-icon-114x114.png">
   <style>
     .container2{margin-top: 10px!important;}
   </style>
-  <script src="/new/de/js/lazysizes.min.js"></script>
+  <script src="http://miraculousxd.ru/new/de/js/lazysizes.min.js"></script>
   <style>
 
 
@@ -381,14 +381,14 @@
 </div>
 </div>
 </header>
-<script src="/new/de/js/jquery.min.js"></script>
-<script src="/new/de/js/easing.min.js"></script>
-<script src="/new/de/js/owl-carousel.min.js"></script>
-<script src="/new/de/js/flickity.pkgd.min.js"></script>
-<script src="/new/de/js/twitterFetcher_min.js"></script>
-<script src="/new/de/js/jquery.newsTicker.min.js"></script>
-<script src="/new/de/js/modernizr.min.js"></script>
-<script src="/new/de/js/scripts.js"></script>
+<script src="http://miraculousxd.ru/new/de/js/jquery.min.js"></script>
+<script src="http://miraculousxd.ru/new/de/js/easing.min.js"></script>
+<script src="http://miraculousxd.ru/new/de/js/owl-carousel.min.js"></script>
+<script src="http://miraculousxd.ru/new/de/js/flickity.pkgd.min.js"></script>
+<script src="http://miraculousxd.ru/new/de/js/twitterFetcher_min.js"></script>
+<script src="http://miraculousxd.ru/new/de/js/jquery.newsTicker.min.js"></script>
+<script src="http://miraculousxd.ru/new/de/js/modernizr.min.js"></script>
+<script src="http://miraculousxd.ru/new/de/js/scripts.js"></script>
 <script>
     window.console = window.console || function(t) {};
     </script>
@@ -541,6 +541,6 @@
         $.ajax({type: 'GET', url: '.https://miraculousxd.ru/global_data/gtag/js?id=UA-83849484-5', success: _ga, error: report, dataType: 'script', cache: true});
     </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.0-beta3/js/bootstrap.bundle.min.js"></script>
-<script src="/fr/assets/js/script.min.js"></script>
+<script src="http://miraculousxd.ru/ru/assets/js/script.min.js"></script>
 <script defer="defer" src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon="{&quot;rayId&quot;:&quot;6f27c24d49bc7875&quot;,&quot;version&quot;:&quot;2021.12.0&quot;,&quot;r&quot;:1,&quot;token&quot;:&quot;18992be2da8e41acb21e33b9a02dfae4&quot;,&quot;si&quot;:100}" crossorigin="anonymous"></script>
 <main></main><main>
